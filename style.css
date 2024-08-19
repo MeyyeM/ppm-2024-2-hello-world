@@ -20,6 +20,12 @@ input, button {
     color: lightgreen;
 }
 
+p {
+    padding: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: lightgreen;
+}
+
 input:focus-visible {
     outline: 0;
 }
